@@ -5,7 +5,7 @@ struct Mahasiswa
 {
     string nama;
     string NIM;
-    double IPK;
+    float IPK;
 };
 
 int main(){
