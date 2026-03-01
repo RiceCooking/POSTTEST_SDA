@@ -13,7 +13,7 @@ int main(){
             indexmin = i;
         }
     }
-    cout << "Data\t\t\t: {1, 1, 2, 3, 5, 8, 13, 21" << '\n';
+    cout << "Data\t\t\t: {1, 1, 2, 3, 5, 8, 13, 21}" << '\n';
     cout << "Nilai Minimum\t\t: " << nilaimin << endl;
     cout << "Index\t\t\t: " << indexmin;
     return 0;
